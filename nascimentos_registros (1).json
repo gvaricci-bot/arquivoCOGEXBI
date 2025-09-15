@@ -1,0 +1,110 @@
+[
+    {
+        "Ano": 2025,
+        "Mês": "Janeiro",
+        "Nascimentos": 7149,
+        "Registros Realizados": 913,
+        "Registros não realizados": 6236,
+        "Taxa de Registros": "12,77%",
+        "Número do Mês": 1
+    },
+    {
+        "Ano": 2025,
+        "Mês": "Fevereiro",
+        "Nascimentos": 6313,
+        "Registros Realizados": 953,
+        "Registros não realizados": 5360,
+        "Taxa de Registros": "15,10%",
+        "Número do Mês": 2
+    },
+    {
+        "Ano": 2025,
+        "Mês": "Março",
+        "Nascimentos": 7415,
+        "Registros Realizados": 1243,
+        "Registros não realizados": 6172,
+        "Taxa de Registros": "16,76%",
+        "Número do Mês": 3
+    },
+    {
+        "Ano": 2025,
+        "Mês": "Abril",
+        "Nascimentos": 7772,
+        "Registros Realizados": 1490,
+        "Registros não realizados": 6282,
+        "Taxa de Registros": "19,17%",
+        "Número do Mês": 4
+    },
+    {
+        "Ano": 2025,
+        "Mês": "Maio",
+        "Nascimentos": 7730,
+        "Registros Realizados": 1780,
+        "Registros não realizados": 5950,
+        "Taxa de Registros": "23,03%",
+        "Número do Mês": 5
+    },
+    {
+        "Ano": 2025,
+        "Mês": "Junho",
+        "Nascimentos": 6314,
+        "Registros Realizados": 2083,
+        "Registros não realizados": 4231,
+        "Taxa de Registros": "32,99%",
+        "Número do Mês": 6
+    },
+    {
+        "Ano": 2025,
+        "Mês": "Julho",
+        "Nascimentos": 1911,
+        "Registros Realizados": 1974,
+        "Registros não realizados": -63,
+        "Taxa de Registros": "103,30%",
+        "Número do Mês": 7
+    },
+    {
+        "Ano": 2025,
+        "Mês": "Agosto",
+        "Nascimentos": null,
+        "Registros Realizados": null,
+        "Registros não realizados": null,
+        "Taxa de Registros": null,
+        "Número do Mês": 8
+    },
+    {
+        "Ano": 2025,
+        "Mês": "Setembro",
+        "Nascimentos": null,
+        "Registros Realizados": null,
+        "Registros não realizados": null,
+        "Taxa de Registros": null,
+        "Número do Mês": 9
+    },
+    {
+        "Ano": 2025,
+        "Mês": "Outubro",
+        "Nascimentos": null,
+        "Registros Realizados": null,
+        "Registros não realizados": null,
+        "Taxa de Registros": null,
+        "Número do Mês": 10
+    },
+    {
+        "Ano": 2025,
+        "Mês": "Novembro",
+        "Nascimentos": null,
+        "Registros Realizados": null,
+        "Registros não realizados": null,
+        "Taxa de Registros": null,
+        "Número do Mês": 11
+    },
+    {
+        "Ano": 2025,
+        "Mês": "Dezembro",
+        "Nascimentos": null,
+        "Registros Realizados": null,
+        "Registros não realizados": null,
+        "Taxa de Registros": null,
+        "Número do Mês": 12
+    }
+]
